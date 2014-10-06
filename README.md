@@ -1,4 +1,4 @@
-MLHLaunch
+Twilio-Rocketry-Calculator
 =========
 
 This project allows a user to text in their rocket name and motor, and get a return of the Altidude and Stability of the rocket. It's written in python and uses the twilio api for the text system.
